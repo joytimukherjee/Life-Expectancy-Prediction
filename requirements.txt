@@ -1,5 +1,0 @@
-mysql.connector
-pandas
-matplotlib
-numpy
-seaborn
